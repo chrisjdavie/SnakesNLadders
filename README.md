@@ -19,7 +19,9 @@ There were cycles that needed to be detected, and cases where there were no solu
 
 ## Execution
 
-python takingIntoAccountOtherSquares.py < input4.txt
+takingIntoAccountOtherSquares.py is the latest (and sucessful) version
+
+$ python takingIntoAccountOtherSquares.py < input4.txt
 
 
 ## Better approachs
